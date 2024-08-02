@@ -25,6 +25,7 @@ azureedge.net
 skype.com
 msedge.net
 windows.com
+client.wns.windows.com
 windows.net
 windowsazure.com
 windowsupdate.com
