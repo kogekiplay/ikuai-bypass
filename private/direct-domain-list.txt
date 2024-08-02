@@ -1,3 +1,4 @@
+bing.com
 cn.bing.com
 www.bing.com
 s.cn.bing.net
@@ -21,6 +22,7 @@ downloads.marketplace.jetbrains.com
 download.fedoraproject.org
 quicdesk.com
 microsoft.com
+settings-win.data.microsoft.com
 azureedge.net
 skype.com
 msedge.net
@@ -30,4 +32,3 @@ windows.net
 windowsazure.com
 windowsupdate.com
 wunderlist.com
-bing.com
