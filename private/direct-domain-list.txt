@@ -19,3 +19,4 @@ listen.729ly.net
 plugins.jetbrains.com
 downloads.marketplace.jetbrains.com
 download.fedoraproject.org
+quicdesk.com
