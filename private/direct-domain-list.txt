@@ -20,3 +20,4 @@ plugins.jetbrains.com
 downloads.marketplace.jetbrains.com
 download.fedoraproject.org
 quicdesk.com
+doh.pub
