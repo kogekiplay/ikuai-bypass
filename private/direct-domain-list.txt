@@ -22,6 +22,7 @@ downloads.marketplace.jetbrains.com
 download.fedoraproject.org
 quicdesk.com
 microsoft.com
+dcg.microsoft.com
 microsoftonline.com
 azureedge.net
 skype.com
